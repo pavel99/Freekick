@@ -1,0 +1,6 @@
+E:\SEIP Training\HomePractice\FreeKick\FreeKick\bin\FreeKick.dll.config
+E:\SEIP Training\HomePractice\FreeKick\FreeKick\bin\FreeKick.dll
+E:\SEIP Training\HomePractice\FreeKick\FreeKick\bin\FreeKick.pdb
+E:\SEIP Training\HomePractice\FreeKick\FreeKick\obj\Debug\FreeKick.csprojResolveAssemblyReference.cache
+E:\SEIP Training\HomePractice\FreeKick\FreeKick\obj\Debug\FreeKick.dll
+E:\SEIP Training\HomePractice\FreeKick\FreeKick\obj\Debug\FreeKick.pdb
